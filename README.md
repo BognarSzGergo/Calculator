@@ -1,2 +1,3 @@
 # Calculator
- Calculator App in Kotlin
+A simple calculator for Android written in Kotlin
+ 
